@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Character.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2839" topLine="90" />
+	</File>
+	<File name="Character.h" open="0" top="0" tabpos="4">
+		<Cursor position="535" topLine="1" />
+	</File>
+	<File name="FileHandling.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="1449" topLine="56" />
+	</File>
+	<File name="FileHandling.h" open="0" top="0" tabpos="0">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="Game.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4867" topLine="180" />
+	</File>
+	<File name="Game.h" open="0" top="0" tabpos="1">
+		<Cursor position="548" topLine="0" />
+	</File>
+	<File name="GameObject.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="212" topLine="0" />
+	</File>
+	<File name="GameObject.h" open="0" top="0" tabpos="2">
+		<Cursor position="257" topLine="0" />
+	</File>
+	<File name="Item.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="282" topLine="0" />
+	</File>
+	<File name="Item.h" open="0" top="0" tabpos="0">
+		<Cursor position="82" topLine="0" />
+	</File>
+	<File name="Message.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="322" topLine="0" />
+	</File>
+	<File name="Message.h" open="0" top="0" tabpos="0">
+		<Cursor position="255" topLine="0" />
+	</File>
+	<File name="Tile.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="TypesOfCharacters.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1221" topLine="33" />
+	</File>
+	<File name="TypesOfCharacters.h" open="0" top="0" tabpos="2">
+		<Cursor position="98" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="precompiledheaders.h" open="0" top="0" tabpos="0">
+		<Cursor position="162" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

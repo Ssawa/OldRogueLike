@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1335123587 source:c:\users\cj\documents\programming projects\roguelike\main.cpp
+	"Game.h"
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"sys.h"
+	"mersenne.h"
+	"mouse.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\list.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\color.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\console.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\image.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\sys.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\mersenne.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\mouse.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\bresenham.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\noise.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\fov.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\path.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\lex.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\parser.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\tree.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\bsp.h
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\heightmap.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\zip.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\namegen.h
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\txtfield.h
+	"libtcod.h"
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\list.hpp
+	<string.h>
+	<stdlib.h>
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\color.hpp
+
+1334359204 c:\programming libraries\libtcod-1.5.0\include\console.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\image.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\sys.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\mersenne.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\mouse.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\bresenham.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\noise.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\fov.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\path.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\lex.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\parser.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\tree.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\bsp.hpp
+
+1334115985 c:\programming libraries\libtcod-1.5.0\include\heightmap.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\zip.hpp
+
+1334115986 c:\programming libraries\libtcod-1.5.0\include\namegen.hpp
+
+1335408176 c:\users\cj\documents\programming projects\roguelike\game.h
+	"precompiledheaders.h"
+	"GameObject.h"
+	"Tile.h"
+	"Message.h"
+
+1335460910 source:c:\users\cj\documents\programming projects\roguelike\game.cpp
+	"Game.h"
+	"Map.h"
+	"FileHandling.h"
+	"Character.h"
+	"TypesOfCharacters.h"
+	"Item.h"
+
+1335241206 c:\users\cj\documents\programming projects\roguelike\gameobject.h
+	"Game.h"
+	"Map.h"
+
+1335231661 source:c:\users\cj\documents\programming projects\roguelike\gameobject.cpp
+	"GameObject.h"
+	"Character.h"
+
+1335322131 c:\users\cj\documents\programming projects\roguelike\precompiledheaders.h
+	"libtcod.hpp"
+	<vector>
+	<fstream>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+
+1335039539 source:c:\users\cj\documents\programming projects\roguelike\tile.cpp
+	"Tile.h"
+
+1335039499 c:\users\cj\documents\programming projects\roguelike\tile.h
+
+1335231452 source:c:\users\cj\documents\programming projects\roguelike\map.cpp
+	"Map.h"
+	"Game.h"
+
+1335231409 c:\users\cj\documents\programming projects\roguelike\map.h
+	"precompiledheaders.h"
+	"Tile.h"
+
+1335460803 source:c:\users\cj\documents\programming projects\roguelike\filehandling.cpp
+	"FileHandling.h"
+	"TypesOfCharacters.h"
+
+1335233744 c:\users\cj\documents\programming projects\roguelike\filehandling.h
+	"precompiledheaders.h"
+	"Map.h"
+	"Game.h"
+
+1335143760 source:c:\users\cj\documents\programming projects\roguelike\npc.cpp
+	"NPC.h"
+
+1335143743 c:\users\cj\documents\programming projects\roguelike\npc.h
+	"GameObject.h"
+
+1335317857 c:\users\cj\documents\programming projects\roguelike\character.h
+	"GameObject.h"
+
+1335411580 source:c:\users\cj\documents\programming projects\roguelike\character.cpp
+	"Character.h"
+	"TypesOfCharacters.h"
+
+1335154894 c:\users\cj\documents\programming projects\roguelike\ais.h
+	"Game.h"
+	"Character.h"
+
+1335154768 source:c:\users\cj\documents\programming projects\roguelike\ais.cpp
+	"AIs.h"
+
+1335411599 source:c:\users\cj\documents\programming projects\roguelike\typesofcharacters.cpp
+	"TypesOfCharacters.h"
+
+1335296987 c:\users\cj\documents\programming projects\roguelike\typesofcharacters.h
+	"Character.h"
+	"Item.h"
+
+1335240696 source:c:\users\cj\documents\programming projects\roguelike\item.cpp
+	"Item.h"
+
+1335241215 c:\users\cj\documents\programming projects\roguelike\item.h
+	"GameObject.h"
+
+1335405219 source:c:\users\cj\documents\programming projects\roguelike\message.cpp
+	"Message.h"
+
+1335405190 c:\users\cj\documents\programming projects\roguelike\message.h
+	"precompiledheaders.h"
+
